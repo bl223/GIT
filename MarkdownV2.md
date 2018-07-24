@@ -14,7 +14,8 @@
 ![alt text](Nish.Jpeg)
 
 ##### An image that is located on the web (not a file in the directory). If you right-click on an image in a web browser there is an option in the popup to get the address/URL to the image. 
-![alt text](https://www.cliffsofmoher.ie/wp-content/uploads/2015/10/Weather-widget-730x538.jpg) (Cliffs of Moher, Ireland)
+![alt text](https://www.cliffsofmoher.ie/wp-content/uploads/2015/10/Weather-widget-730x538.jpg) 
+(Cliffs of Moher, Ireland)
 
 ~~~~
 #include <stdio.h>
